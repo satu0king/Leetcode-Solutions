@@ -11,5 +11,10 @@ I have solved around 1200 questions over 1 year. The recent most accepted soluti
 1. Run `python create_bash_script.py`
 1. Run `sh get_ac.sh`
 
+## Statistics
+![Stats of solved problem](images/stat1.png)
+![Stats of solved problem graph](images/stat2.png)
+
 ## Credits
 The code uses snippets from this article: https://www.foxerlee.top/2020/02/05/Leetcode-crawler/
+
